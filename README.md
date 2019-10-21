@@ -1,19 +1,20 @@
 
 <p align="center">
-    <a href="https://lhammer.cn/You-need-to-know-css/#/">
-        <img src="./static/logo.png" width="152">
-    </a>
-    <h3 align="center">You-need-to-know-css</h3>
-    <p align="center">
-        <a href="https://gitter.im/You-need-to-know-css/Lobby"><img src="https://badges.gitter.im/You-need-to-know-css/Lobby.svg"></a>
-        <a href="https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE"><img src="https://img.shields.io/github/license/l-hammer/You-need-to-know-css.svg??colorB=brightgreen"></a>
-        <a href="https://juejin.im/post/5aab4f985188255582521c57"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-1.2k%20likes-brightgreen.svg"></a>
-        <a href="https://codeclimate.com/github/l-hammer/You-need-to-know-css/maintainability"><img src="https://api.codeclimate.com/v1/badges/dfba02247f296387a1a7/maintainability" /></a>
-        <a href="https://github.com/l-hammer/You-need-to-know-css"><img src="https://img.shields.io/github/stars/l-hammer/You-need-to-know-css.svg?style=social"></a>
-    </p>
-    <p align="center">
-        CSS tricks web developers need to know<br>
-    </p>
+  <a href="https://lhammer.cn/You-need-to-know-css/#/">
+    <img src="./static/logo.png" width="152">
+  </a>
+  <h3 align="center">You-need-to-know-css</h3>
+  <p align="center">
+    <a href="https://gitter.im/You-need-to-know-css/Lobby"> <img src="https://badges.gitter.im/You-need-to-know-css/Lobby.svg"></a>
+    <a href="https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg"></a>
+    <a href="https://juejin.im/post/5aab4f985188255582521c57"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-1.2k%20likes-brightgreen.svg"></a>
+    <a href="https://codeclimate.com/github/l-hammer/You-need-to-know-css/maintainability"><img src="https://api.codeclimate.com/v1/badges/dfba02247f296387a1a7/maintainability" /></a>
+    <a href="http://hits.dwyl.io/l-hammer/You-need-to-know-css" alt="hit count"><img src="http://hits.dwyl.io/l-hammer/You-need-to-know-css.svg" /></a> 
+    <a href="https://github.com/l-hammer/You-need-to-know-css"><img src="https://img.shields.io/github/stars/l-hammer/You-need-to-know-css.svg?style=social"></a>
+  </p>
+  <p align="center">
+    CSS tricks web developers need to know<br>
+  </p>
 </p>
 
 
@@ -49,7 +50,7 @@ Several quick start options are available:
 |[![自定义文字下划线](https://img.shields.io/badge/custom%20text%20underline-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E5%AD%97%E4%B8%8B%E5%88%92%E7%BA%BF-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/text-underline) | [![提示气泡](https://img.shields.io/badge/poptip-%E6%8F%90%E7%A4%BA%E6%B0%94%E6%B3%A1-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/poptip) | [![自定义滚动条](https://img.shields.io/badge/custom%20scrollbar-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%BB%9A%E5%8A%A8%E6%9D%A1-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/scrollbar) |
 |[![圣杯布局](https://img.shields.io/badge/holy%20grail%20layout-%E5%9C%A3%E6%9D%AF%E5%B8%83%E5%B1%80-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/holy-grail-layout) | [![双飞翼布局](https://img.shields.io/badge/double%20wing%20layout-%E5%8F%8C%E9%A3%9E%E7%BF%BC%E5%B8%83%E5%B1%80-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/double-wing-layout) | [![类订单布局](https://img.shields.io/badge/class%20order%20layout-%E7%B1%BB%E8%AE%A2%E5%8D%95%E5%B8%83%E5%B1%80-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/class-order-layout) |
 |[![Flex 布局](https://img.shields.io/badge/flexbox%20layout-Flex%E5%B8%83%E5%B1%80-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/flexbox-layout) | [![1px 线/边](https://img.shields.io/badge/one%20pixel%20line-1px%20%E7%BA%BF%2F%E8%BE%B9-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/one-pixel-line) | [![弹跳效果](https://img.shields.io/badge/bounce-%E5%BC%B9%E8%B7%B3%E6%95%88%E6%9E%9C-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/bounce) |
-|[![插入换行](https://img.shields.io/badge/line%20breaks-%E6%8F%92%E5%85%A5%E6%8D%A2%E8%A1%8C-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/line-breaks) |
+|[![插入换行](https://img.shields.io/badge/line%20breaks-%E6%8F%92%E5%85%A5%E6%8D%A2%E8%A1%8C-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/line-breaks) | [![自定义变量](https://img.shields.io/badge/custom%20variables-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%98%E9%87%8F-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/custom-variables) | [![有趣的项目](https://img.shields.io/badge/interesting-%E6%9C%89%E8%B6%A3%E7%9A%84%E9%A1%B9%E7%9B%AE-b4a078.svg)](https://lhammer.cn/You-need-to-know-css/#/interesting-usage) |
 
 
 ## Contributing ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true&style=flat-square)
@@ -63,8 +64,39 @@ Several quick start options are available:
 
 or submit an [issue](https://github.com/l-hammer/You-need-to-know-css/issues) - any helpful suggestions are welcomed. :stuck_out_tongue_winking_eye:
 
+------
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/l-hammer/You-need-to-know-css/graphs/contributors"><img src="https://opencollective.com/You-need-to-know-css/contributors.svg?width=890&button=false" /></a>
+
+## Donate ![donate](https://img.shields.io/badge/%E2%98%95-Buy%20Me%20A%20Coffee-%23be4141.svg?style=flat-square&colorB=00A862)
+
+If you find this project useful, you can buy me a coffee ☕, Thank you! 🙏🏻 🙏 🙏🏿
+
+<img src="./static/reward-code.png" width="280"> <br><br>
+
+If you provide your github in the message, it will show up here with a link to your github.
+
+<a href="https://github.com/fqs617" target="_blank"><img src="https://avatars3.githubusercontent.com/u/23302051?s=460&v=4" width="29" style="border-radius: 50%"></a>
+<a href="https://github.com/ElivesHuangGit" target="_blank"><img src="https://avatars0.githubusercontent.com/u/36831410?s=460&v=4" width="29" style="border-radius: 50%"></a>
+<a href="https://github.com/StaminaWang" target="_blank"><img src="https://avatars1.githubusercontent.com/u/19159159?s=460&v=4" width="29" style="border-radius: 50%"></a>
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/You-need-to-know-css#backer)]
+
+<a href="https://opencollective.com/You-need-to-know-css#backers" target="_blank"><img src="https://opencollective.com/You-need-to-know-css/backers.svg?width=890"></a>
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/You-need-to-know-css#sponsor)]
+
+<a href="https://opencollective.com/You-need-to-know-css/sponsor/0/website" target="_blank"><img src="https://opencollective.com/You-need-to-know-css/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/You-need-to-know-css/sponsor/1/website" target="_blank"><img src="https://opencollective.com/You-need-to-know-css/sponsor/1/avatar.svg"></a>
+
+
 ## license
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl-hammer%2FYou-need-to-know-css.svg?type=small)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl-hammer%2FYou-need-to-know-css?ref=badge_small)
 
-[MIT](https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE) © 2018 LHammer
+[996ICU](https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE) © 2017-present, LHammer

@@ -1,6 +1,6 @@
-# 自定义复选框
+# Custom checkboxes
 
-?> 背景知识：:point_right: [transition](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transition), [transform](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform)
+?> Background：:point_right: [transition](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transition), [transform](https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform)
 
 <vuep template="#custom-checkbox"></vuep>
 
@@ -71,7 +71,8 @@
     transform: rotate(45deg) scale(1);
     transition: all .2s ease-in-out;
   }
-  input[type="checkbox"]:disabled + label::before, input[type="checkbox"]:disabled.checked + label::before{
+  input[type="checkbox"]:disabled + label::before,
+  input[type="checkbox"]:disabled.checked + label::before{
     background-color: #f2f2f2;
   }
   input[type="checkbox"]:disabled.checked + label::after{
@@ -88,19 +89,29 @@
     <input type="checkbox" id="awesome12">
     <label for="awesome12">Lhammer</label>
     <input type="checkbox" id="awesome2" disabled>
-    <label for="awesome2">禁用</label>
+    <label for="awesome2">disable</label>
     <input type="checkbox" id="awesome3" disabled class="checked">
-    <label for="awesome3">选中禁用</label>
+    <label for="awesome3">check disable</label>
   </main>
 </template>
 <script>  
 </script>
 </script>
 
-> 创造良好的用户体验应当养成一种习惯~
+> Greate user experience should always go first as a habit ~
 
-### 浏览器支持
+### Browser Support
 
-<iframe src="https://caniuse.bitsofco.de/embed/index.html?feat=transforms2d&amp;periods=future_2,future_1,current,past_1,past_2,past_3&amp;accessible-colours=false" frameborder="0" width="100%" height="493px"></iframe>
+<iframe
+  width="100%"
+  height="493px"
+  frameborder="0"
+  src="https://caniuse.bitsofco.de/embed/index.html?feat=transforms2d&amp;periods=future_2,future_1,current,past_1,past_2,past_3&amp;accessible-colours=false">
+</iframe>
 
-<iframe src="https://caniuse.bitsofco.de/embed/index.html?feat=css-transitions&amp;periods=future_2,future_1,current,past_1,past_2,past_3&amp;accessible-colours=false" frameborder="0" width="100%" height="493px"></iframe>
+<iframe
+  width="100%"
+  height="493px"
+  frameborder="0"
+  src="https://caniuse.bitsofco.de/embed/index.html?feat=css-transitions&amp;periods=future_2,future_1,current,past_1,past_2,past_3&amp;accessible-colours=false">
+</iframe>

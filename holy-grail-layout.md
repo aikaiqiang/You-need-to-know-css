@@ -1,11 +1,11 @@
 
-# 圣杯布局
+# Holy grail layout
 
-此布局一般的需求为两边等宽，中间自适应的三栏布局。
+General requirments fot this layout is that three-column with two sides are equally wide and the adaptive middle part.
 
-<vuep template="#holy-grail-layout"></vuep>
+<vuep template="#holy-grail-layout_tlp"></vuep>
 
-<script v-pre type="text/x-template" id="holy-grail-layout">
+<script v-pre type="text/x-template" id="holy-grail-layout_tlp">
 <style>
   main {
     width: 100%;
@@ -56,24 +56,23 @@
 <template>
   <main class="main">
     <input ref="range" type="range" value="100">
-    <section :style="{width: width + '%'}">
-      <div class="center">A paragraph of filler text. La la la de dah de dah de dah de la.</div>
+    <section :style="{ width }">
+      <div class="center">Nam aliquam sem et tortor. Neque interdum consectetur libero id.</div>
       <div class="left">left</div>
       <div class="right">right</div>
     </section>
   </main>
 </template>
 <script>
-  module.exports = {
+  export default {
     data () {
       return {
-        width: 100
+        width: "100%"
       }
     },
     mounted() {
-      const self = this;
-      this.$refs.range.oninput = function () {
-        self.width = 60 + this.value * .4;
+      this.$refs.range.oninput = ({ target: { value } }) => {
+        this.width = `${60 + value * .4}%`;
       }
     }
   }
